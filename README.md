@@ -12,6 +12,8 @@ i'm just here for the cool things other people do :]
 🐢 i waste a lot of time
 
 💖 things i like to do [<3][1]
+
+
 ```py
 discrod = 'spiffle#0452'
 sporify = 'spiffle' (no caps)
